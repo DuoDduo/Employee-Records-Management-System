@@ -1,0 +1,102 @@
+1;John;Doe;28;75000.0;Human Resources;2000-08-15;Lekki;Lagos;8123456789
+2;Jane;Smith;32;65000.0;Finance;1998-04-10;Ikeja;Lagos;8039876543
+3;Oliver;Williams;24;85000.0;Sales;1999-11-05;Port Harcourt;Rivers;8098765432
+4;Grace;Johnson;29;60000.0;Marketing;2003-03-19;Aba;Abia;8112345678
+5;Sam;Brown;30;70000.0;IT;1997-06-25;Kaduna;Kaduna;8023456789
+6;Emmanuel;Ogundele;27;75000.0;Finance;2001-07-10;Lekki;Lagos;8123456789
+7;Elijah;Brown;25;75000.0;Human Resources;2000-08-15;Lagos Island;Lagos;8123456789
+8;Grace;Johnson;28;65000.0;Finance;2001-04-10;Ibadan;Oyo;8039876543
+9;Chinedu;Okonkwo;29;85000.0;Sales;2000-11-05;Enugu;Enugu;8098765432
+10;Amaka;Eze;23;60000.0;Marketing;2003-03-19;Umuahia;Abia;8112345678
+11;Oluwaseun;Adams;30;70000.0;IT;1999-06-25;Benin City;Edo;8023456789
+12;Yusuf;Ibrahim;27;80000.0;Engineering;2000-10-14;Kano;Kano;8109876543
+13;Funke;Adeoye;22;70000.0;Marketing;2003-08-02;Ogbomosho;Oyo;8034567890
+14;Chijioke;Okoro;32;90000.0;Engineering;1998-12-11;Owerri;Imo;8045678901
+15;Ify;Okafor;26;75000.0;IT;2001-07-28;Aba;Abia;8023456789
+16;Sarah;Smith;29;78000.0;Human Resources;2000-05-15;Port Harcourt;Rivers;8112345678
+17;Michael;Okafor;31;95000.0;Finance;1999-03-20;Abuja;FCT;8039876543
+18;Ngozi;Eze;27;70000.0;Sales;2002-11-05;Onitsha;Anambra;8023456789
+19;David;Obi;24;62000.0;Marketing;2002-07-19;Kaduna;Kaduna;8109876543
+20;Aisha;Ali;33;89000.0;IT;1998-06-25;Zaria;Kaduna;8045678901
+21;Ibrahim;Bello;28;75000.0;Engineering;2001-04-14;Maiduguri;Borno;8034567890
+22;Nkechi;Ugwu;22;70000.0;Marketing;2000-08-02;Nsukka;Enugu;8023456789
+23;Emeka;Nwosu;30;92000.0;Engineering;1997-12-11;Auchi;Edo;8112345678
+24;Tolu;Adewale;25;80000.0;Finance;2003-10-30;Ilorin;Kwara;8109876543
+25;Chinwe;Okoli;29;76000.0;Human Resources;2002-05-01;Abeokuta;Ogun;8039876543
+26;Blessing;Eke;25;73000.0;Sales;2000-11-15;Warri;Delta;8098765432
+27;Nnamdi;Okeke;28;82000.0;Marketing;1998-09-28;Owerri;Imo;8054321098
+28;Rachel;Adeoye;22;68000.0;IT;2003-03-03;Akure;Ondo;8123456789
+29;Obinna;Okoro;30;92000.0;Engineering;1997-12-11;Aba;Abia;8032165478
+30;Eunice;Ike;26;76000.0;Sales;2001-05-05;Calabar;Cross River;8098765432
+31;Oluwafemi;Adebayo;29;81000.0;Engineering;1999-08-20;Jos;Plateau;8054321098
+32;Chinaza;Okonkwo;24;64000.0;Marketing;2002-07-10;Abeokuta;Ogun;8123456789
+33;Mary;Obi;23;62000.0;IT;2003-08-02;Benin City;Edo;8032165478
+34;Chukwudi;Nwosu;35;95000.0;Finance;1996-04-15;Uyo;Akwa Ibom;8098765432
+35;Olufunmilayo;Abdul;31;88000.0;Human Resources;2000-01-01;Kaduna;Kaduna;8054321098
+36;Tolu;Okeke;28;75000.0;Sales;2001-06-28;Aba;Abia;8123456789
+37;Joseph;Okafor;29;80000.0;Marketing;1999-02-03;Enugu;Enugu;8032165478
+38;Abigail;Ade;24;62000.0;IT;2002-10-12;Abuja;FCT;8098765432
+39;Samuel;Ojo;33;91000.0;Finance;1998-11-17;Kano;Kano;8054321098
+40;Nneka;Okoli;27;77000.0;Engineering;2001-09-30;Ibadan;Oyo;8123456789
+41;Chidinma;Eze;25;73000.0;IT;2000-05-18;Port Harcourt;Rivers;8032165478
+42;Bolu;Bakare;29;82000.0;Sales;1999-07-25;Lagos Island;Lagos;8098765432
+43;Ade;Adesina;32;88000.0;Human Resources;1996-06-10;Abeokuta;Ogun;8054321098
+44;Hassan;Ibrahim;30;85000.0;Engineering;1998-02-20;Jos;Plateau;8123456789
+45;Folake;Ogunleye;28;78000.0;Marketing;2001-04-22;Benin City;Edo;8032165478
+46;Blessing;Adebayo;26;75000.0;IT;2002-11-05;Abuja;FCT;8098765432
+47;Ayomide;Akindele;23;62000.0;Finance;2003-02-15;Ilorin;Kwara;8054321098
+48;Samson;Afolabi;24;65000.0;Marketing;2002-09-10;Lekki;Lagos;8123456789
+49;Chinelo;Nwachukwu;30;90000.0;IT;1997-12-01;Enugu;Enugu;8032165478
+50;Ahmed;Okafor;28;77000.0;Human Resources;2001-08-29;Ibadan;Oyo;8098765432
+51;Fatima;Ibrahim;26;73000.0;Sales;2002-03-15;Kano;Kano;8054321098
+52;Chioma;Okafor;29;82000.0;Marketing;1999-09-28;Ilorin;Kwara;8123456789
+53;Femi;Okonkwo;22;68000.0;IT;2003-05-03;Owerri;Imo;8032165478
+54;Chinedu;Okeke;27;77000.0;Engineering;2000-12-10;Enugu;Enugu;8098765432
+55;Abimbola;Adeyemi;30;85000.0;Finance;2001-07-28;Abeokuta;Ogun;8098765432
+56;Hassan;Okoye;34;90000.0;Human Resources;1993-10-21;Abuja;FCT;8054321098
+57;Ada;Nnamdi;28;78000.0;Sales;2001-08-15;Onitsha;Anambra;8123456789
+58;Grace;Ikechukwu;25;75000.0;IT;2000-07-29;Warri;Delta;8032165478
+59;Ezekiel;Chukwu;31;92000.0;Engineering;1996-04-11;Aba;Abia;8098765432
+60;Bukola;Okafor;29;81000.0;Marketing;1999-09-30;Calabar;Cross River;8123456789
+61;Ngozi;Okonkwo;24;70000.0;IT;2002-03-25;Kaduna;Kaduna;8032165478
+62;Emeka;Nwosu;27;75000.0;Human Resources;2000-12-20;Port Harcourt;Rivers;8098765432
+63;Juliet;Eze;33;88000.0;Engineering;1994-09-02;Jos;Plateau;8054321098
+64;Benjamin;Adebayo;30;85000.0;Sales;1997-06-15;Kano;Kano;8032165478
+65;Nneka;Ikeji;26;73000.0;IT;2002-02-25;Enugu;Enugu;8098765432
+66;Yusuf;Ogunlade;29;82000.0;Engineering;1999-08-28;Owerri;Imo;8032165478
+67;Aminu;Okafor;22;68000.0;Marketing;2003-04-30;Abuja;FCT;8123456789
+68;Amina;Ogundipe;27;77000.0;IT;2000-12-05;Lagos Island;Lagos;8098765432
+69;Chinonye;Okechukwu;30;85000.0;Engineering;1997-05-01;Abeokuta;Ogun;8098765432
+70;Suleiman;Ibrahim;34;90000.0;Human Resources;1993-09-20;Abuja;FCT;8054321098
+71;Temitope;Adewale;28;78000.0;Sales;2001-07-15;Onitsha;Anambra;8123456789
+72;Chibuzo;Ugwu;25;75000.0;IT;2000-08-29;Warri;Delta;8032165478
+73;Zainab;Chukwu;31;92000.0;Engineering;1996-06-11;Calabar;Cross River;8098765432
+74;Abdul;Ogunleye;29;81000.0;Marketing;1999-10-02;Port Harcourt;Rivers;8123456789
+75;Sikiru;Adebayo;24;70000.0;IT;2002-04-22;Kaduna;Kaduna;8032165478
+76;Chidimma;Okeke;27;75000.0;Human Resources;2000-12-15;Kano;Kano;8054321098
+77;Oluwakemi;Akinwale;33;88000.0;Sales;2001-07-30;Onitsha;Anambra;8123456789
+78;Musa;Adisa;30;85000.0;Engineering;1997-07-20;Kano;Kano;8098765432
+79;Adeola;Ogunlade;26;73000.0;IT;2002-02-10;Enugu;Enugu;8054321098
+80;Kabir;Nnamdi;29;82000.0;Marketing;1999-08-25;Owerri;Imo;8123456789
+81;Lola;Okafor;22;68000.0;Finance;2003-04-28;Abuja;FCT;8032165478
+82;Abubakar;Nwosu;27;77000.0;Engineering;2000-12-12;Port Harcourt;Rivers;8098765432
+83;Nafisat;Ikechukwu;30;85000.0;Sales;1997-05-15;Lagos Island;Lagos;8098765432
+84;Kehinde;Ibrahim;34;90000.0;IT;1993-09-28;Warri;Delta;8054321098
+85;Rukayat;Adesina;28;78000.0;Human Resources;2001-07-30;Kaduna;Kaduna;8123456789
+86;Kola;Ugwu;25;75000.0;Finance;2000-08-15;Jos;Plateau;8032165478
+87;Hadiza;Chukwu;31;92000.0;Engineering;1996-06-20;Aba;Abia;8098765432
+88;Sani;Ogunleye;29;81000.0;Marketing;1999-10-05;Kaduna;Kaduna;8123456789
+89;Amir;Okafor;24;70000.0;IT;2002-04-18;Kano;Kano;8032165478
+90;Fatimah;Okonkwo;27;75000.0;Human Resources;2000-12-18;Jos;Plateau;8098765432
+91;Tolulope;Eze;33;88000.0;Engineering;1994-10-25;Kano;Kano;8054321098
+92;Ademola;Adisa;30;85000.0;Sales;1997-07-30;Enugu;Enugu;8032165478
+93;Nkechi;Adegoke;26;73000.0;IT;2002-02-25;Kaduna;Kaduna;8098765432
+94;Hassan;Nwosu;29;82000.0;Engineering;1999-08-10;Abeokuta;Ogun;8054321098
+95;Amaka;Okafor;22;68000.0;Marketing;2003-04-10;Port Harcourt;Rivers;8123456789
+96;Abdul;Nnamdi;27;77000.0;IT;2000-12-05;Lekki;Lagos;8032165478
+97;Habib;Ibrahim;30;85000.0;Human Resources;1997-05-05;Aba;Abia;8054321098
+98;Amina;Okoli;34;90000.0;Engineering;1993-09-10;Lagos Island;Lagos;8123456789
+99;Bashir;Okeke;28;78000.0;Sales;2001-07-28;Kaduna;Kaduna;8098765432
+100;Zainab;Ikechukwu;25;75000.0;IT;2000-08-29;Jos;Plateau;8032165478
+101;Ade;Lawson;30;100000.0;Sales;2019-02-12;Maiduguri;Borno;9012237656
+102;Onome;Dominion;20;90000.0;Sales;2022-03-03;Bauchi;Bauchi;9012398021
