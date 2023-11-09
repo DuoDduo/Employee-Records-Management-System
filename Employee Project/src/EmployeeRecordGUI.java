@@ -278,7 +278,7 @@ public class EmployeeRecordGUI {
         JPanel panel = new JPanel(new GridBagLayout());
         GridBagConstraints c = new GridBagConstraints();
         c.fill = GridBagConstraints.HORIZONTAL;
-        c.insets = new Insets(5, 5, 5, 5);
+        c.insets = new Insets(5, 5, 5, 5);cd
 
         // Search bar for employee modification
         JTextField firstNameSearchField = new JTextField(20);
